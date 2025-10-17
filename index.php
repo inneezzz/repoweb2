@@ -1,6 +1,6 @@
 <?php
 // Contoh data
-$title = "Selamat Datang di Web2";
+$title = "Selamat Datang di Web2 by Inna Henita Cahya Nurani | H1101231009";
 $description = "Ini adalah contoh tampilan PHP sederhana dengan HTML dan CSS.";
 $menu = ["Beranda", "Tentang", "Kontak"];
 ?>
