@@ -38,7 +38,7 @@ $menu = ["Beranda", "Tentang", "Kontak"];
         <p>Ini adalah konten utama dari halaman.</p>
     </main>
     <footer>
-        &copy; <?= date('Y') ?> Web1. All rights reserved.
+        &copy; <?= date('Y') ?> Web2. All rights reserved.
     </footer>
 </body>
 </html>
